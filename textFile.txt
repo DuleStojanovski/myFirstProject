@@ -1,2 +1,4 @@
 Hello
 git config --global user.name "DuleStojanovski"
+
+git pull
